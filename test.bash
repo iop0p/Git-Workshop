@@ -4,4 +4,4 @@ echo "Hello world"
 
 echo "Trigger change"
 
-echo "Test Ionut"
+echo "Trigger change"
